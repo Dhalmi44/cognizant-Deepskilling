@@ -1,0 +1,14 @@
+C:\6389982\WEEK 1\SINGLETON\AppLoggerApp\bin\Debug\net9.0\AppLoggerApp.exe
+C:\6389982\WEEK 1\SINGLETON\AppLoggerApp\bin\Debug\net9.0\AppLoggerApp.deps.json
+C:\6389982\WEEK 1\SINGLETON\AppLoggerApp\bin\Debug\net9.0\AppLoggerApp.runtimeconfig.json
+C:\6389982\WEEK 1\SINGLETON\AppLoggerApp\bin\Debug\net9.0\AppLoggerApp.dll
+C:\6389982\WEEK 1\SINGLETON\AppLoggerApp\bin\Debug\net9.0\AppLoggerApp.pdb
+C:\6389982\WEEK 1\SINGLETON\AppLoggerApp\obj\Debug\net9.0\AppLoggerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\6389982\WEEK 1\SINGLETON\AppLoggerApp\obj\Debug\net9.0\AppLoggerApp.AssemblyInfoInputs.cache
+C:\6389982\WEEK 1\SINGLETON\AppLoggerApp\obj\Debug\net9.0\AppLoggerApp.AssemblyInfo.cs
+C:\6389982\WEEK 1\SINGLETON\AppLoggerApp\obj\Debug\net9.0\AppLoggerApp.csproj.CoreCompileInputs.cache
+C:\6389982\WEEK 1\SINGLETON\AppLoggerApp\obj\Debug\net9.0\AppLoggerApp.dll
+C:\6389982\WEEK 1\SINGLETON\AppLoggerApp\obj\Debug\net9.0\refint\AppLoggerApp.dll
+C:\6389982\WEEK 1\SINGLETON\AppLoggerApp\obj\Debug\net9.0\AppLoggerApp.pdb
+C:\6389982\WEEK 1\SINGLETON\AppLoggerApp\obj\Debug\net9.0\AppLoggerApp.genruntimeconfig.cache
+C:\6389982\WEEK 1\SINGLETON\AppLoggerApp\obj\Debug\net9.0\ref\AppLoggerApp.dll

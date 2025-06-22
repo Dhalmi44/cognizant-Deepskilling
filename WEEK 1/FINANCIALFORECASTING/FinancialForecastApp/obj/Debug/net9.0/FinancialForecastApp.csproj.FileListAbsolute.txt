@@ -1,0 +1,14 @@
+C:\6289982\WEEK 1\FINANCIALFORECASTING\FinancialForecastApp\bin\Debug\net9.0\FinancialForecastApp.exe
+C:\6289982\WEEK 1\FINANCIALFORECASTING\FinancialForecastApp\bin\Debug\net9.0\FinancialForecastApp.deps.json
+C:\6289982\WEEK 1\FINANCIALFORECASTING\FinancialForecastApp\bin\Debug\net9.0\FinancialForecastApp.runtimeconfig.json
+C:\6289982\WEEK 1\FINANCIALFORECASTING\FinancialForecastApp\bin\Debug\net9.0\FinancialForecastApp.dll
+C:\6289982\WEEK 1\FINANCIALFORECASTING\FinancialForecastApp\bin\Debug\net9.0\FinancialForecastApp.pdb
+C:\6289982\WEEK 1\FINANCIALFORECASTING\FinancialForecastApp\obj\Debug\net9.0\FinancialForecastApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\6289982\WEEK 1\FINANCIALFORECASTING\FinancialForecastApp\obj\Debug\net9.0\FinancialForecastApp.AssemblyInfoInputs.cache
+C:\6289982\WEEK 1\FINANCIALFORECASTING\FinancialForecastApp\obj\Debug\net9.0\FinancialForecastApp.AssemblyInfo.cs
+C:\6289982\WEEK 1\FINANCIALFORECASTING\FinancialForecastApp\obj\Debug\net9.0\FinancialForecastApp.csproj.CoreCompileInputs.cache
+C:\6289982\WEEK 1\FINANCIALFORECASTING\FinancialForecastApp\obj\Debug\net9.0\FinancialForecastApp.dll
+C:\6289982\WEEK 1\FINANCIALFORECASTING\FinancialForecastApp\obj\Debug\net9.0\refint\FinancialForecastApp.dll
+C:\6289982\WEEK 1\FINANCIALFORECASTING\FinancialForecastApp\obj\Debug\net9.0\FinancialForecastApp.pdb
+C:\6289982\WEEK 1\FINANCIALFORECASTING\FinancialForecastApp\obj\Debug\net9.0\FinancialForecastApp.genruntimeconfig.cache
+C:\6289982\WEEK 1\FINANCIALFORECASTING\FinancialForecastApp\obj\Debug\net9.0\ref\FinancialForecastApp.dll

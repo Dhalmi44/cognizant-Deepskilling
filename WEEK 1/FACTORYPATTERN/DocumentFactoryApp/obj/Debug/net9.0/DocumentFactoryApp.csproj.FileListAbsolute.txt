@@ -1,0 +1,14 @@
+C:\6389982\WEEK 1\FACTORYPATTERN\FactoryMethodPatternExample\DocumentFactoryApp\bin\Debug\net9.0\DocumentFactoryApp.exe
+C:\6389982\WEEK 1\FACTORYPATTERN\FactoryMethodPatternExample\DocumentFactoryApp\bin\Debug\net9.0\DocumentFactoryApp.deps.json
+C:\6389982\WEEK 1\FACTORYPATTERN\FactoryMethodPatternExample\DocumentFactoryApp\bin\Debug\net9.0\DocumentFactoryApp.runtimeconfig.json
+C:\6389982\WEEK 1\FACTORYPATTERN\FactoryMethodPatternExample\DocumentFactoryApp\bin\Debug\net9.0\DocumentFactoryApp.dll
+C:\6389982\WEEK 1\FACTORYPATTERN\FactoryMethodPatternExample\DocumentFactoryApp\bin\Debug\net9.0\DocumentFactoryApp.pdb
+C:\6389982\WEEK 1\FACTORYPATTERN\FactoryMethodPatternExample\DocumentFactoryApp\obj\Debug\net9.0\DocumentFactoryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\6389982\WEEK 1\FACTORYPATTERN\FactoryMethodPatternExample\DocumentFactoryApp\obj\Debug\net9.0\DocumentFactoryApp.AssemblyInfoInputs.cache
+C:\6389982\WEEK 1\FACTORYPATTERN\FactoryMethodPatternExample\DocumentFactoryApp\obj\Debug\net9.0\DocumentFactoryApp.AssemblyInfo.cs
+C:\6389982\WEEK 1\FACTORYPATTERN\FactoryMethodPatternExample\DocumentFactoryApp\obj\Debug\net9.0\DocumentFactoryApp.csproj.CoreCompileInputs.cache
+C:\6389982\WEEK 1\FACTORYPATTERN\FactoryMethodPatternExample\DocumentFactoryApp\obj\Debug\net9.0\DocumentFactoryApp.dll
+C:\6389982\WEEK 1\FACTORYPATTERN\FactoryMethodPatternExample\DocumentFactoryApp\obj\Debug\net9.0\refint\DocumentFactoryApp.dll
+C:\6389982\WEEK 1\FACTORYPATTERN\FactoryMethodPatternExample\DocumentFactoryApp\obj\Debug\net9.0\DocumentFactoryApp.pdb
+C:\6389982\WEEK 1\FACTORYPATTERN\FactoryMethodPatternExample\DocumentFactoryApp\obj\Debug\net9.0\DocumentFactoryApp.genruntimeconfig.cache
+C:\6389982\WEEK 1\FACTORYPATTERN\FactoryMethodPatternExample\DocumentFactoryApp\obj\Debug\net9.0\ref\DocumentFactoryApp.dll
