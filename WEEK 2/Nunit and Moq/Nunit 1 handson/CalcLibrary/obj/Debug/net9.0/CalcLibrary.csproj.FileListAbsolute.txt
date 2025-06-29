@@ -1,0 +1,11 @@
+C:\6389982\WEEK 2\Nunit and Moq\Nunit 1 handson\CalcLibrary\bin\Debug\net9.0\CalcLibrary.deps.json
+C:\6389982\WEEK 2\Nunit and Moq\Nunit 1 handson\CalcLibrary\bin\Debug\net9.0\CalcLibrary.dll
+C:\6389982\WEEK 2\Nunit and Moq\Nunit 1 handson\CalcLibrary\bin\Debug\net9.0\CalcLibrary.pdb
+C:\6389982\WEEK 2\Nunit and Moq\Nunit 1 handson\CalcLibrary\obj\Debug\net9.0\CalcLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\6389982\WEEK 2\Nunit and Moq\Nunit 1 handson\CalcLibrary\obj\Debug\net9.0\CalcLibrary.AssemblyInfoInputs.cache
+C:\6389982\WEEK 2\Nunit and Moq\Nunit 1 handson\CalcLibrary\obj\Debug\net9.0\CalcLibrary.AssemblyInfo.cs
+C:\6389982\WEEK 2\Nunit and Moq\Nunit 1 handson\CalcLibrary\obj\Debug\net9.0\CalcLibrary.csproj.CoreCompileInputs.cache
+C:\6389982\WEEK 2\Nunit and Moq\Nunit 1 handson\CalcLibrary\obj\Debug\net9.0\CalcLibrary.dll
+C:\6389982\WEEK 2\Nunit and Moq\Nunit 1 handson\CalcLibrary\obj\Debug\net9.0\refint\CalcLibrary.dll
+C:\6389982\WEEK 2\Nunit and Moq\Nunit 1 handson\CalcLibrary\obj\Debug\net9.0\CalcLibrary.pdb
+C:\6389982\WEEK 2\Nunit and Moq\Nunit 1 handson\CalcLibrary\obj\Debug\net9.0\ref\CalcLibrary.dll

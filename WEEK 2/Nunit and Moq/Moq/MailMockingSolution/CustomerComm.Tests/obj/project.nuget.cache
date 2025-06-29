@@ -1,0 +1,36 @@
+{
+  "version": 2,
+  "dgSpecHash": "CEOmzxMJUnQ=",
+  "success": true,
+  "projectFilePath": "C:\\6389982\\WEEK 2\\Nunit and Moq\\Moq\\MailMockingSolution\\CustomerComm.Tests\\CustomerComm.Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grohi\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\grohi\\.nuget\\packages\\microsoft.codecoverage\\17.9.0\\microsoft.codecoverage.17.9.0.nupkg.sha512",
+    "C:\\Users\\grohi\\.nuget\\packages\\microsoft.net.test.sdk\\17.9.0\\microsoft.net.test.sdk.17.9.0.nupkg.sha512",
+    "C:\\Users\\grohi\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.9.0\\microsoft.testplatform.objectmodel.17.9.0.nupkg.sha512",
+    "C:\\Users\\grohi\\.nuget\\packages\\microsoft.testplatform.testhost\\17.9.0\\microsoft.testplatform.testhost.17.9.0.nupkg.sha512",
+    "C:\\Users\\grohi\\.nuget\\packages\\moq\\4.20.69\\moq.4.20.69.nupkg.sha512",
+    "C:\\Users\\grohi\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\grohi\\.nuget\\packages\\nunit\\4.0.0\\nunit.4.0.0.nupkg.sha512",
+    "C:\\Users\\grohi\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512",
+    "C:\\Users\\grohi\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512",
+    "C:\\Users\\grohi\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512",
+    "C:\\Users\\grohi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\grohi\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\grohi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "message": "CustomerComm.Tests depends on NUnit (>= 3.14.1) but NUnit 3.14.1 was not found. NUnit 4.0.0 was resolved instead.",
+      "projectPath": "C:\\6389982\\WEEK 2\\Nunit and Moq\\Moq\\MailMockingSolution\\CustomerComm.Tests\\CustomerComm.Tests.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\6389982\\WEEK 2\\Nunit and Moq\\Moq\\MailMockingSolution\\CustomerComm.Tests\\CustomerComm.Tests.csproj",
+      "libraryId": "NUnit",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
